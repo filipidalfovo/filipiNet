@@ -4,3 +4,5 @@ git add .
 git commit -m "Desc version"
 [rename/move]
 git mv (origin) (newfile)
+[send]
+git push -u origin main
