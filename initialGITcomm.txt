@@ -2,3 +2,5 @@
 git init
 git add .
 git commit -m "Desc version"
+[rename]
+git mv (origin) (newfile)
